@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336140730276",
+    "project_id": "eg-fitness3",
+    "storage_bucket": "eg-fitness3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336140730276:android:1ebad769d262545328cb31",
+        "android_client_info": {
+          "package_name": "com.example.eg_fitness3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSHwAGrNFELuF4N7Xor8UKatYgFGTzW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

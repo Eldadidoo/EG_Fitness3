@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EGֹ_Fitness3</string>
+    <string-array name="genderspinner">
+        <item>זכר</item>
+        <item>נקבה</item>
+    </string-array>
+</resources>
